@@ -1,0 +1,18 @@
+# OS metadata
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated packages and screenshots
+oculis-optical-store-template.zip
+tests/artifacts/**/*.png
+tests/artifacts/**/*.jpg
+tests/artifacts/**/*.jpeg
+
+# Local browser QA dependencies
+.qa-tools/

@@ -1,0 +1,6 @@
+const {chromium}=require('../.qa-tools/node_modules/playwright');
+const http=require('http'),fs=require('fs'),path=require('path');
+const root=path.resolve(__dirname,'..');
+const server=http.createServer((req,res)=>{const file=path.resolve(root,'.'+decodeURIComponent(req.url.split('?')[0]));if(!file.startsWith(root+path.sep)){res.writeHead(403);return res.end();}fs.readFile(file,(e,b)=>{res.writeHead(e?404:200,{'Content-Type':{'.html':'text/html','.js':'application/javascript','.css':'text/css','.webp':'image/webp','.woff2':'font/woff2'}[path.extname(file)]||'application/octet-stream'});res.end(e?'Missing':b);});});
+
+(async()=>{await new Promise(r=>server.listen(8767,'127.0.0.1',r));const browser=await chromium.launch();try{const page=await browser.newPage();page.on('requestfailed',r=>{if(r.url().includes('google'))console.log('Map request failed: '+r.failure().errorText);});await page.goto('http://127.0.0.1:8767/pages/contact.html');await page.locator('.location-map').scrollIntoViewIfNeeded();await page.waitForTimeout(20000);console.log('Frames: '+page.frames().map(f=>f.url()).join(', '));await page.locator('.location-map').screenshot({path:path.join(root,'tests/artifacts/responsive/contact-map.png')});}finally{await browser.close();server.close();}})().catch(e=>{console.error(e);server.close();process.exitCode=1;});

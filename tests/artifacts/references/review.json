@@ -1,0 +1,275 @@
+{
+  "farm": {
+    "title": "Local Farm and CSA | Pure Fields - Organic Produce",
+    "headings": [
+      "\n                    Weekly fresh produce from\n                    \n                    local farms to your table\n                ",
+      "A local CSA built for real weekly routines.",
+      "How the Pure Fields membership works each week.",
+      "\n                        Flexible CSA plans and seasonal add-ons.\n                    ",
+      "A simple subscription flow from plan selection to weekly pickup.",
+      "Short reads for members who want better meals and better timing.",
+      "What members say after the first few deliveries."
+    ],
+    "widths": {
+      "1440": {
+        "width": 1440,
+        "scrollWidth": 1440
+      },
+      "820": {
+        "width": 820,
+        "scrollWidth": 820
+      },
+      "390": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    "linked_pages": [
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/about.html",
+        "title": "About Pure Fields | Local Farm and CSA Story",
+        "headings": [
+          "The mission and people behind our weekly harvest boxes.",
+          "Seasonal crops packed across the year",
+          "Years building local farm relationships",
+          "Member households served on active routes",
+          "Nearby growers contributing through the season",
+          "Quality is built in the field, not added later in the supply chain.",
+          "Meet the people behind the weekly route.",
+          "From harvest planning to the box at your door.",
+          "Visit the farm, ask a question, or talk to our member support team."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/products.html",
+        "title": "Products | Pure Fields - CSA Plans and Seasonal Produce",
+        "headings": [
+          "Weekly fresh produce from local farms.",
+          "Choose the box that fits your week.",
+          "A sample weekly box, laid out like a clean catalog spread.",
+          "Boxes change with the harvest.",
+          "Local routes, clear handoff windows.",
+          "A simple loop built for recurring orders.",
+          "Extend the box with pantry and market staples.",
+          "We source close to home and pack for freshness, not shelf life.",
+          "Questions members usually ask before subscribing."
+        ]
+      }
+    ]
+  },
+  "events": {
+    "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+    "headings": [
+      "Crafting Unforgettable Luxury Events",
+      "Luxury Planning, Seamlessly Curated",
+      "Celebrations Crafted with Vision",
+      "Your Celebration, Thoughtfully Crafted",
+      "Designing Experiences, Not Just Events",
+      "Luxury Collections, Tailored to Your Vision",
+      "Every Celebration, A Lasting Memory",
+      "Let\u2019s Create Something Extraordinary"
+    ],
+    "widths": {
+      "1440": {
+        "width": 1440,
+        "scrollWidth": 1440
+      },
+      "820": {
+        "width": 820,
+        "scrollWidth": 820
+      },
+      "390": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    "linked_pages": [
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/about.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Crafting Experiences That Define Moments",
+          "Our Story",
+          "Meet the Vision Behind IMPERIA",
+          "Principles That Define IMPERIA",
+          "From Vision to Iconic Experiences",
+          "Numbers That Define Excellence",
+          "Let\u2019s Create Something Exceptional"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/services.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Luxury Services, Seamlessly Delivered",
+          "Curated Experiences for Every Occasion",
+          "Bespoke Wedding Planning",
+          "From Vision to Execution",
+          "Luxury Packages Tailored for You",
+          "Signature Experiences We\u2019ve Crafted",
+          "Start Your Experience with IMPERIA"
+        ]
+      }
+    ]
+  },
+  "bookstore": {
+    "title": "Local Indie Bookstore",
+    "headings": [
+      "\n        Explore Stories From Independent Bookshops\n      ",
+      "Featured Books",
+      "Staff Picks",
+      "Browse Book Categories",
+      "What Our Readers Say",
+      "Bookstore Moments",
+      "Author Events",
+      "Subscribe to Our Newsletter"
+    ],
+    "widths": {
+      "1440": {
+        "width": 1440,
+        "scrollWidth": 1440
+      },
+      "820": {
+        "width": 820,
+        "scrollWidth": 820
+      },
+      "390": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    "linked_pages": [
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/services.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "Book Services That Feel Personal",
+          "Our Bookstore Services",
+          "Find Your Next Favorite Book",
+          "Join Our Book Clubs",
+          "Book Subscription Boxes",
+          "Frequently Asked Questions"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/about.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "A Place Where Stories Live",
+          "Our Story",
+          "Our Book Community",
+          "Visit Our Bookshop"
+        ]
+      }
+    ]
+  },
+  "food": {
+    "title": "Food Truck",
+    "headings": [
+      "Explore Our Delicious Menu",
+      "Browse Our Menu",
+      "BBQ Chicken Signature Pizza",
+      "Craving Something Delicious?",
+      "Food Name"
+    ],
+    "widths": {
+      "1440": {
+        "width": 1440,
+        "scrollWidth": 1440
+      },
+      "820": {
+        "width": 820,
+        "scrollWidth": 820
+      },
+      "390": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    "linked_pages": [
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/about.html",
+        "title": "Food Truck",
+        "headings": [
+          "Our Food Truck Story",
+          "Our Journey from Passion to Flavor",
+          "Why Choose Our Food Truck",
+          "Meet the Culinary Team",
+          "Ready to Taste Our Street Food?"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/about.html",
+        "title": "Food Truck",
+        "headings": [
+          "Our Food Truck Story",
+          "Our Journey from Passion to Flavor",
+          "Why Choose Our Food Truck",
+          "Meet the Culinary Team",
+          "Ready to Taste Our Street Food?"
+        ]
+      }
+    ]
+  },
+  "yarn": {
+    "title": "Boutique Yarn - Premium Craft Supplies",
+    "headings": [
+      "Design-led yarns for modern makers.",
+      "Atelier Picks",
+      "Signature Pattern Library",
+      "Crafted For Modern Makers",
+      "Loved By Yarn Makers",
+      "Pricing Built for Modern Studios",
+      "Latest From The Atelier",
+      "Start your next masterpiece with our premium yarn library."
+    ],
+    "widths": {
+      "1440": {
+        "width": 1440,
+        "scrollWidth": 1440
+      },
+      "820": {
+        "width": 820,
+        "scrollWidth": 820
+      },
+      "390": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    "linked_pages": [
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/about.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Crafting Stories Through Every Thread",
+          "From a Single Thread to a Creative Movement",
+          "Mission & Vision",
+          "By The Numbers",
+          "10,000+",
+          "500+",
+          "4.9 ",
+          "50+",
+          "Meet The Makers",
+          "What We Stand For",
+          "Loved By Creative Studios"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/products.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Premium Yarn Kit",
+          "Premium Handmade Yarn Kit",
+          "Designed For Premium Crafting",
+          "Made To Feel Exceptional",
+          "Crafted for Creators Who Value Quality",
+          "Every Angle, Every Texture",
+          "You May Also Like",
+          "Craft With Confidence",
+          "Frequently Asked Questions"
+        ]
+      }
+    ]
+  }
+}

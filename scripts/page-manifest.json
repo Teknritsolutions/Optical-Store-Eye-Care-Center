@@ -1,0 +1,58 @@
+{
+  "index.html": {
+    "title": "Eyewear for the way you see life",
+    "sections": 10
+  },
+  "home-2.html": {
+    "title": "A considered point of view",
+    "sections": 10
+  },
+  "about.html": {
+    "title": "A clearer purpose",
+    "sections": 6
+  },
+  "products.html": {
+    "title": "Find your everyday favourite",
+    "sections": 5
+  },
+  "product-details.html": {
+    "title": "The Harper — frame details",
+    "sections": 6
+  },
+  "eye-test-booking.html": {
+    "title": "Make time for your eyes",
+    "sections": 6
+  },
+  "brands.html": {
+    "title": "Different makers. A shared perspective.",
+    "sections": 5
+  },
+  "services.html": {
+    "title": "Thoughtful care, from the first hello",
+    "sections": 6
+  },
+  "service-details.html": {
+    "title": "The comprehensive eye examination",
+    "sections": 5
+  },
+  "blog.html": {
+    "title": "A clearer outlook",
+    "sections": 5
+  },
+  "blog-details.html": {
+    "title": "A little care. A clearer everyday.",
+    "sections": 5
+  },
+  "contact.html": {
+    "title": "A good conversation starts here",
+    "sections": 6
+  },
+  "404.html": {
+    "title": "A little out of focus",
+    "sections": 1
+  },
+  "coming-soon.html": {
+    "title": "A new perspective is on its way",
+    "sections": 1
+  }
+}

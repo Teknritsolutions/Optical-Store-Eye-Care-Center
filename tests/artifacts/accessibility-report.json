@@ -1,0 +1,197 @@
+{
+  "results": {
+    "index.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "index.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "home-2.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ]
+    },
+    "home-2.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ]
+    },
+    "about.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "about.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "products.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ]
+    },
+    "products.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ]
+    },
+    "product-details.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "product-details.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "eye-test-booking.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "eye-test-booking.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "brands.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "brands.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "services.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "services.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "service-details.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "service-details.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "blog.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "blog.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "blog-details.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "blog-details.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "contact.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "contact.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "404.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "404.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ]
+    },
+    "coming-soon.html light ltr": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ]
+    },
+    "coming-soon.html dark rtl": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ]
+    }
+  },
+  "failures": []
+}

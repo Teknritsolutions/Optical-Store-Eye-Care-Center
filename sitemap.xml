@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://oculis.example/pages/index.html</loc></url>
+  <url><loc>https://oculis.example/pages/home-2.html</loc></url>
+  <url><loc>https://oculis.example/pages/about.html</loc></url>
+  <url><loc>https://oculis.example/pages/products.html</loc></url>
+  <url><loc>https://oculis.example/pages/product-details.html</loc></url>
+  <url><loc>https://oculis.example/pages/eye-test-booking.html</loc></url>
+  <url><loc>https://oculis.example/pages/brands.html</loc></url>
+  <url><loc>https://oculis.example/pages/services.html</loc></url>
+  <url><loc>https://oculis.example/pages/service-details.html</loc></url>
+  <url><loc>https://oculis.example/pages/blog.html</loc></url>
+  <url><loc>https://oculis.example/pages/blog-details.html</loc></url>
+  <url><loc>https://oculis.example/pages/contact.html</loc></url>
+</urlset>

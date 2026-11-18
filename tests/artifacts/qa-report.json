@@ -1,0 +1,138 @@
+{
+  "browser": "Google Chrome via Playwright",
+  "widths": [
+    320,
+    360,
+    375,
+    390,
+    420,
+    480,
+    640,
+    768,
+    820,
+    1024,
+    1280,
+    1440,
+    1920
+  ],
+  "pages": {
+    "index.html": {
+      "sections": 10,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "home-2.html": {
+      "sections": 10,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "about.html": {
+      "sections": 6,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "products.html": {
+      "sections": 6,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "product-details.html": {
+      "sections": 6,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "eye-test-booking.html": {
+      "sections": 6,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "brands.html": {
+      "sections": 5,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "services.html": {
+      "sections": 6,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "service-details.html": {
+      "sections": 5,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "blog.html": {
+      "sections": 5,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "blog-details.html": {
+      "sections": 5,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "contact.html": {
+      "sections": 6,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "404.html": {
+      "sections": 1,
+      "layout_checks": 52,
+      "broken_images": []
+    },
+    "coming-soon.html": {
+      "sections": 1,
+      "layout_checks": 52,
+      "broken_images": []
+    }
+  },
+  "failures": [],
+  "interactions": [
+    {
+      "name": "Catalogue search, category/style/lens intersection, sorting, empty state and preset chips",
+      "passed": true
+    },
+    {
+      "name": "Theme and RTL persist across page navigation",
+      "passed": true
+    },
+    {
+      "name": "Desktop keyboard dropdown and touch-size mobile navigation",
+      "passed": true
+    },
+    {
+      "name": "Product gallery and product-specific detail routes",
+      "passed": true
+    },
+    {
+      "name": "Brand search, material filter and empty results",
+      "passed": true
+    },
+    {
+      "name": "Journal search, categories, load-more and article routes",
+      "passed": true
+    },
+    {
+      "name": "Booking required fields, past-date prevention and demo confirmation",
+      "passed": true
+    },
+    {
+      "name": "Contact email validation and explicit demo feedback",
+      "passed": true
+    },
+    {
+      "name": "Newsletter validation and demo confirmation",
+      "passed": true
+    },
+    {
+      "name": "Manual testimonial carousel and mobile single-story view",
+      "passed": true
+    },
+    {
+      "name": "Keyboard accessible FAQ accordion",
+      "passed": true
+    }
+  ],
+  "javascript_errors": []
+}

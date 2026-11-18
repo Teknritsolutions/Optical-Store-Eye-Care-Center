@@ -1,0 +1,79 @@
+{
+  "filterNavigation": {
+    "style": "Round",
+    "count": "3 frames",
+    "catalogueTop": 230,
+    "neutralOption": "rgb(255, 255, 255)"
+  },
+  "categoryWorks": true,
+  "placeholders": true,
+  "checks": 8,
+  "failures": [],
+  "errors": [],
+  "homeHover": true,
+  "mobileMenu": true,
+  "results": [
+    {
+      "file": "coming-soon.html",
+      "width": 320,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 390,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 640,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 768,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 1024,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 1280,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 1440,
+      "overflow": 0,
+      "cardAlignment": [],
+      "broken": [],
+      "offenders": []
+    },
+    {
+      "file": "coming-soon.html",
+      "width": 390,
+      "mode": "dark-rtl",
+      "overflow": 0
+    }
+  ]
+}
